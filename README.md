@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jfrojasc
+- 👀 I’m interested in Biology/Bioinformatics
+- 🌱 I’m currently learning about machine learning and R
+- 📫 How to reach me: jfrojas@gmail.com
